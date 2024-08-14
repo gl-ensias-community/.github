@@ -37,7 +37,7 @@ SE training includes a wide range of IT professions that are in perfect unison w
 
 ## Significant Learning Abilities
 
-- Teach professionals how to create and�or integrate software programs and well-structured, secure information systems based on standardized and flexible components.
+- Teach professionals how to create and/or integrate software programs and well-structured, secure information systems based on standardized and flexible components.
 - Be able to analyze, create, and build many forms of architecture in the disciplines of Software and Information Systems: Enterprise Architecture, Software, Data, and Technological Infrastructure.
 - Ability to link information systems with the organization’s «business» strategy as part of a global and sustainable service quality improvement policy .
 - Acquire product, process, and service quality assurance techniques for software applications throughout their life cycle, from initial needs specification to maintenance phase. 
